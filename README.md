@@ -1,1 +1,2 @@
-# Supply_chain_Kapruka
+This Report consists of operational challenges faced by Kapruka Holdings PLC and proposes strategies to enhance competitive advantage and sustainability. Key areas for improvements that address inefficiencies in delivery systems and overcoming supply chain disruptions.
+Recommendations focus on adopting digital tools to streamline processes, implementing structured ADKAR change management frameworks, and incorporating sustainable practices to align with global standards. These initiatives aim to optimize resources utilization, improve customer satisfaction, and position of Kapruka Holdings PLC as a leader in the digital economy.
